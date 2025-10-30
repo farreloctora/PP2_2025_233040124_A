@@ -6,3 +6,4 @@
 | **Nama**           | Farrel Octora           |
 | **NIM**            | 233040XXX               |
 | **Kelas**          | A                       |
+| **Tahun Ajaran**   | 2025/2026 - Ganjil      |
